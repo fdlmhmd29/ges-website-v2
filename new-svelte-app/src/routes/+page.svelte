@@ -12,10 +12,15 @@
   });
 </script>
 
+
+<h2>Konsultan lingkungan profesional.</h2>
+<div class="carousel">{display}</div>
+
 <h1>Green Environment Services</h1>
 <p>Konsultan lingkungan profesional.</p>
 <div class="carousel">{display}</div>
 <p><a href="/blog">Read our blog</a> | <a href="/admin">Admin</a></p>
+
 <style>
 .carousel { font-weight: bold; margin: 20px 0; }
 </style>
