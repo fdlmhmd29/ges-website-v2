@@ -7,6 +7,7 @@ This project is built with **SvelteKit**. It provides a landing page for an envi
 - Blog listing and individual post pages
 - Simple admin login to create and delete posts
 - Posts stored in `src/posts.json`
+- Basic CSS theme inspired by [Sucofindo](https://www.sucofindo.co.id/)
 
 ## Development
 
